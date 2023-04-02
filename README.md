@@ -2,7 +2,7 @@
 
 An interface known as a voice assistant processes the user's voice instructions and performs the necessary actions. The task could involve responding to user queries, establishing a connection with the device, and carrying out any other tasks the user has chosen, such as accessing Google, etc. Here, Python will be used to simulate such a system.
 
-Based on the commands we add to our assistant, other modules may be utilised. In this tutorial, we'll use the following:
+### Based on the commands we add to our assistant, other modules may be utilised. In this tutorial, we'll use the following:
 
 1. Subprocess: This module can be used to get data from the device in order to carry out operations like shutdown and sleep.
 
@@ -30,14 +30,22 @@ Based on the commands we add to our assistant, other modules may be utilised. In
 
 13. Tkinter:  We use this module to build the GUI
 
-libraries required - 
+## libraries required - 
 
 pip install wolframalpha
+
 pip install pyttsx3
+
 pip install wikipedia
+
 pip install winshell
+
 pip install pyjokes
+
 pip install smtplib
+
 pip install twilio
+
 pip install beautifulsoup4
+
 pip install tk
